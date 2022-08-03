@@ -1,0 +1,24 @@
+
+.zi-logo{
+    width: 15%;
+    text-align: left;
+    margin-left: 3%;
+}
+.zi-banner{
+    width: 96vw;
+    left: 2%;
+
+}
+.zi-title {
+    font-family: "Times New Roman", monospace;
+    color: black;
+    text-align: right;
+    font-size: 55px;
+}
+
+.discount{
+    font-family: "Lucida Handwriting", monospace;
+    text-align: right;
+    border-bottom: solid 4px black;
+    padding: 0 3% 2% 0;
+}

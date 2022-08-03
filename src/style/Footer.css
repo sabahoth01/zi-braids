@@ -1,0 +1,26 @@
+.display__column{
+    display: flex;
+    flex-direction: column;
+}
+
+.question{
+    align-self: center;
+}
+.flex-container{
+    margin: 3% 0;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.copyright{
+    padding-left: 3%;
+    flex: 30%;
+}
+.message{
+    flex: 40%;
+    text-align: center;
+}
+.contact{
+    flex: 30%;
+}
