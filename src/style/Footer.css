@@ -5,6 +5,7 @@
 
 .question{
     align-self: center;
+    font-weight: bold;
 }
 .flex-container{
     margin: 3% 0;

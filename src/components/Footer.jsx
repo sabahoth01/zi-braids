@@ -19,8 +19,8 @@ function Footer(){
                     From <span className="heart">&#10084;</span><br/>by ziBraid
                 </div>
                 <div className='contact'>
-                    <a href="#" className="fa fa-whatsapp"></a>
-                    <a href="https://github.com/sabahoth01" className="fa fa-github"></a>
+                        Vyazemskiy pereulok, dom. 5/7<br/>
+                        We are on whatsapp/telegram: +79111466599
                 </div>
             </div>
         </div>

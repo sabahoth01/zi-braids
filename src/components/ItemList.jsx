@@ -2,7 +2,7 @@ import '../style/ItemList.css'
 
 
 function handleClick(plantName) {
-    alert(`Vous voulez acheter 1 ${plantName}? Très bon choix 🌱✨`)
+    alert(`You want to buy 1 ${plantName}? That's greaaat! 🌱✨`)
 }
 
 function ItemList({ cover, name,  price }) {

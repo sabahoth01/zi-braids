@@ -9,3 +9,13 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+button{
+    background-color: black;
+    color: white;
+}
+
+button:hover{
+    background-color: #31b472;
+    color: black;
+}
