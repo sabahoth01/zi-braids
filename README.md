@@ -7,6 +7,6 @@ An Ads page for a braid store
 No need to purchase things online, just for knowing about new items and discounts.
 
 ## Web View
-[ziBraids](https://zi-braids.herokuapp.com/)
+[ziBraids](https://fancy-hummingbird-1a35ea.netlify.app/)
 
 
